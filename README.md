@@ -1,3 +1,12 @@
+---
+
+## 📊 GitHub Activity
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=magdoudnouur&theme=microsoft)](https://git.io/streak-stats)
+
+---
+
+## 🚀 Featured Projects
 # Hi, I'm Nourhen 👋
 
 **Full-Stack Developer & Data/AI enthusiast** passionate about building useful, high-performance web applications.
